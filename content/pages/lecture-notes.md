@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: fde2ca8c-b3f1-62a9-6891-dbbc1006eed1
 ---
@@ -71,7 +74,7 @@ Different Nations and National Culture
 {{< tdopen >}}
 Exploiting Home-Based Advantage
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Slides and Notes for Lectures 3–5 (PDF)]({{< baseurl >}}/resources/mit15_220s12_lec03-04-05)
 {{< tdclose >}}
 
@@ -107,7 +110,7 @@ Building Metanational Advantage
 {{< tdopen >}}
 Between a Global Business and a Global Company
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Slides and Notes for Lectures 6–7 (PDF - 1.3 MB)]({{< baseurl >}}/resources/mit15_220s12_lec06-07)
 {{< tdclose >}}
 
@@ -128,7 +131,7 @@ Global Integration and National Responsiveness
 {{< tdopen >}}
 Local Adaptation
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Slides and Notes for Lectures 8–9 (PDF)]({{< baseurl >}}/resources/mit15_220s12_lec08-09)
 {{< tdclose >}}
 
