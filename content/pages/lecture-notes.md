@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, slides for select
+  class sessions, and typed notes, which outline key questions, core concepts, and
+  additional thoughts that were offered during class discussions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -39,7 +42,7 @@ LECTURE NOTES
 Going "Global" and Being "Global"
 {{< tdclose >}}
 {{< tdopen >}}
-[Slides and Notes for Lecture 1 (PDF - 1.0 MB)]({{< baseurl >}}/resources/mit15_220s12_lec01)
+{{% resource_link 513e596c-917a-4bad-b399-0a1cb1bd9541 "Slides and Notes for Lecture 1 (PDF - 1.0 MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +66,7 @@ The Advantage of Internationalization
 Different Nations and National Culture
 {{< tdclose >}}
 {{< tdopen >}}
-[Slides and Notes for Lecture 3a (PDF)]({{< baseurl >}}/resources/mit15_220s12_lec03a)
+{{% resource_link b7a1fc87-2f58-24fb-4455-e1bf4b097239 "Slides and Notes for Lecture 3a (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +78,7 @@ Different Nations and National Culture
 Exploiting Home-Based Advantage
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Slides and Notes for Lectures 3–5 (PDF)]({{< baseurl >}}/resources/mit15_220s12_lec03-04-05)
+{{% resource_link 2ba8eea7-5160-b3d0-f92b-0b65b5fe34f9 "Slides and Notes for Lectures 3–5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +114,7 @@ Building Metanational Advantage
 Between a Global Business and a Global Company
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Slides and Notes for Lectures 6–7 (PDF - 1.3 MB)]({{< baseurl >}}/resources/mit15_220s12_lec06-07)
+{{% resource_link f80c4df7-c1d4-753a-22cb-08da059fc32a "Slides and Notes for Lectures 6–7 (PDF - 1.3 MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +135,7 @@ Global Integration and National Responsiveness
 Local Adaptation
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Slides and Notes for Lectures 8–9 (PDF)]({{< baseurl >}}/resources/mit15_220s12_lec08-09)
+{{% resource_link 00944d1b-cc36-d4ea-8b0f-89b975444587 "Slides and Notes for Lectures 8–9 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

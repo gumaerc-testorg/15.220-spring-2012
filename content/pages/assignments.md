@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a description of the two individual written assignments
+  and guidelines for the group case postings for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
