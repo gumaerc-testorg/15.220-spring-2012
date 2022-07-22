@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section includes a description of the two individual written assignments
+  and guidelines for the group case postings for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3dd5ecb4-435d-ae2e-53a6-3dcd2ce9f82c
 ---
