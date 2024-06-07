@@ -25,7 +25,7 @@ The second section of the subject focuses on company-level strategy and related 
 Prerequisites
 -------------
 
-While this course has no formal prerequisites, this particular version of the subject is taught and tailored specificaly to those enrolled in the {{% resource_link "f9def51c-230d-4720-a0ba-03f4748cc12b" "MIT Sloan Fellows Program" %}}. Participants are expected to be able to draw upon and contribute their prior working and managerial experiences in the classroom.
+While this course has no formal prerequisites, this particular version of the subject is taught and tailored specificaly to those enrolled in the [MIT Sloan Fellows Program](http://mitsloan.mit.edu/fellows/). Participants are expected to be able to draw upon and contribute their prior working and managerial experiences in the classroom.
 
 Assignments
 -----------
