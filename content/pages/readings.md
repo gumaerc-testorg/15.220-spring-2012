@@ -34,11 +34,11 @@ Going "Global" and Being "Global": To be global or not to be global—is that on
 
 ### Required Readings
 
-Levitt, T. "[The Globalization of Markets](http://hbr.org/1983/05/the-globalization-of-markets)." *Harvard Business Review*, May–June 1983.
+Levitt, T. "{{% resource_link "ba308295-c91e-4272-a447-b3a1835b5739" "The Globalization of Markets" %}}." *Harvard Business Review*, May–June 1983.
 
-"[The World is Flat](http://en.wikipedia.org/wiki/The_World_is_Flat)." Wikipedia.
+"{{% resource_link "e187c0ec-6533-4405-8761-3e072dd20711" "The World is Flat" %}}." Wikipedia.
 
-IBM. "[The Globally Integrated Enterprise](http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/globalbiz/transform/)."
+IBM. "{{% resource_link "f9aa9efb-fcf6-48a6-8569-6b7d52904982" "The Globally Integrated Enterprise" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -56,11 +56,11 @@ The Advantage of Internationalization: Why go "against a sea of troubles"?
 
 ### Case
 
-Lessard, Donald, and Cate Reavis. ["CEMEX: Globalization 'The CEMEX Way'." (PDF)](https://mitsloan.mit.edu/LearningEdge/CaseDocs/09%20039%20CEMEX%20%20Lessard.pdf) MIT Sloan School Case 09–039, March 5, 2009.
+Lessard, Donald, and Cate Reavis. {{% resource_link "f88ec64d-6a62-4fc8-bed9-331e05111067" "\"CEMEX: Globalization 'The CEMEX Way'.\" (PDF)" %}} MIT Sloan School Case 09–039, March 5, 2009.
 
 ### Required Reading
 
-Ghemawat, Pankaj. "Global Value Creation." Chapter 3 in *Redefining Global Strategy: Crossing Borders in a World Where Differences Still Matter*. Harvard Business School Press, 2007. ISBN: 9781591398660. \[Preview with [Google Books](http://books.google.com/books?id=8iPXgr7oJ9MC&pg=PA65#v=onepage)\]
+Ghemawat, Pankaj. "Global Value Creation." Chapter 3 in *Redefining Global Strategy: Crossing Borders in a World Where Differences Still Matter*. Harvard Business School Press, 2007. ISBN: 9781591398660. \[Preview with {{% resource_link "f4ed6fe2-778b-4597-a287-c76d5d9b128c" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -79,7 +79,7 @@ Exploiting Home-Based Advantage: Is it easier when you have a paragon at home?
 
 ### Case
 
-Bartlett, Christopher A., and Ashish Nanda. "[Ingvar Kamprad and IKEA](http://hbr.org/product/ingvar-kamprad-and-ikea/an/390132-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-390-132, May 07, 1990.
+Bartlett, Christopher A., and Ashish Nanda. "{{% resource_link "6df163a7-dcb1-4981-be57-2120bb25eae3" "Ingvar Kamprad and IKEA" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-390-132, May 07, 1990.
 
 ### Required Reading
 
@@ -105,7 +105,7 @@ Westney, Eleanor. "Shimano Inc." MIT Sloan School Case.
 
 ### Required Reading
 
-Lessard, D., R. Lucea, and L. Vives. ["Global Strategy for the 21st Century: The RAT/CAT Capabilities Perspective." (PDF)](http://www.icgd.hku.hk/2011-2012/Feb16_ppt1.pdf) *MIT Sloan Management Review*.
+Lessard, D., R. Lucea, and L. Vives. {{% resource_link "60c1367a-d666-4c3b-9db4-7c6fa9194bc6" "\"Global Strategy for the 21st Century: The RAT/CAT Capabilities Perspective.\" (PDF)" %}} *MIT Sloan Management Review*.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -124,13 +124,13 @@ Building Metanational Advantage: To be national or not to be national—is that 
 
 ### Case
 
-Renault-Nissan. ["Alliance Facts and Figures 2009." (PDF - 1.5MB)](https://www.slideshare.net/shivakumar86/alliance-factsandfigures2009)
+Renault-Nissan. {{% resource_link "6c081e14-971b-4760-a5dd-39e197e70043" "\"Alliance Facts and Figures 2009.\" (PDF - 1.5MB)" %}}
 
 ### Required Readings
 
-Doz, Y., J. Santos, and P. Williamson. "The Metanational Advantage." Chapter 1 in *From Global to Metanational: How Companies Win in the Knowledge Economy*. Harvard Business School Press, 2001. ISBN: 9780875848709. \[Preview with [Google Books](http://books.google.com/books?id=qzRq5KfIlwAC&pg=PA1#v=onepage)\]
+Doz, Y., J. Santos, and P. Williamson. "The Metanational Advantage." Chapter 1 in *From Global to Metanational: How Companies Win in the Knowledge Economy*. Harvard Business School Press, 2001. ISBN: 9780875848709. \[Preview with {{% resource_link "124a880a-6957-4729-85ca-31821954feae" "Google Books" %}}\]
 
-Doz, Y., J. Santos, and P. Williamson. "[Marketing Myopia Re-visited: Why Every Company Needs to Learn from the World](https://iveybusinessjournal.com/publication/marketing-myopia-re-visited-why-every-company-needs-to-learn-from-the-world/)." *Ivey Business Journal* 68, no. 3 (2004).
+Doz, Y., J. Santos, and P. Williamson. "{{% resource_link "5ca59ddb-ca65-481f-bb5a-6254900465f8" "Marketing Myopia Re-visited: Why Every Company Needs to Learn from the World" %}}." *Ivey Business Journal* 68, no. 3 (2004).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part II: Relating Strategy and Organization**
@@ -150,13 +150,13 @@ Between a Global Business and a Global Company: Exporter or multinational—is t
 
 ### Case
 
-Khanna, Tarun, Ingrid Vargas, and Krishna G. Palepu. "[Haier: Taking a Chinese Company Global](http://hbr.org/product/haier-taking-a-chinese-company-global/an/706401-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–706–401, Oct 17, 2005.
+Khanna, Tarun, Ingrid Vargas, and Krishna G. Palepu. "{{% resource_link "505bc03e-cd10-4918-8a1f-aabd76229d49" "Haier: Taking a Chinese Company Global" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–706–401, Oct 17, 2005.
 
 ### Required Readings
 
-Fung, V., William Fung, and Jerry Wind. "The Orchestration Imperative." Chapter 1 in *Competing in a Flat World: Building Enterprises for a Borderless World*. Pearson Prentice Hall, 2007. ISBN: 9780132618182. \[Preview with [Google Books](http://books.google.com/books?id=Hvm15LaOAroC&printsec=frontcover)\]
+Fung, V., William Fung, and Jerry Wind. "The Orchestration Imperative." Chapter 1 in *Competing in a Flat World: Building Enterprises for a Borderless World*. Pearson Prentice Hall, 2007. ISBN: 9780132618182. \[Preview with {{% resource_link "4d0427eb-7510-42a6-83cd-ed77854eb06d" "Google Books" %}}\]
 
-Zeng, Ming, and Peter J. Williamson. "[How to Meet China's Cost Innovation Challenge](https://iveybusinessjournal.com/publication/how-to-meet-chinas-cost-innovation-challenge/)." *Ivey Business Journal* 72, no. 3 (2008).
+Zeng, Ming, and Peter J. Williamson. "{{% resource_link "9ab55f26-8b19-4058-9ac1-63194ae07476" "How to Meet China's Cost Innovation Challenge" %}}." *Ivey Business Journal* 72, no. 3 (2008).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -175,11 +175,11 @@ Global Integration and National Responsiveness: Global and local—is that an im
 
 ### Case
 
-Compeau, D., and K. Mark. "[IBM Canada Ltd.: Implementing Global Strategy](http://hbr.org/product/ibm-canada-ltd-implementing-global-strategy/an/910E08-PDF-ENG)." Ivey Publishing. Case: 9B10E008, November 09, 2010.
+Compeau, D., and K. Mark. "{{% resource_link "995a04b2-a9b4-4cca-9da0-868ba57842bf" "IBM Canada Ltd.: Implementing Global Strategy" %}}." Ivey Publishing. Case: 9B10E008, November 09, 2010.
 
 ### Required Reading
 
-Bartlett, Christopher A., and Sumantra Ghoshal. "[Managing Across Borders: New Organizational Responses](http://sloanreview.mit.edu/the-magazine/1987-fall/2914/managing-across-borders-new-organizational-responses/)." *MIT Sloan Management Review*. October 15, 1987.
+Bartlett, Christopher A., and Sumantra Ghoshal. "{{% resource_link "45bd212c-a923-48f7-abb3-7ba81cda8355" "Managing Across Borders: New Organizational Responses" %}}." *MIT Sloan Management Review*. October 15, 1987.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -198,13 +198,13 @@ Local Adaptation: Can you weld uniformity in different places?
 
 ### Case
 
-Siegel, Jordan I., and Barbara Zepp Larson. ["Labor Market Institutions and Global Strategic Adaptation: Evidence from Lincoln Electric." (PDF)](http://www.people.hbs.edu/jsiegel/SiegelLarson_ManagementScience_2009.pdf) *Management Science* 55, no. 9 (2009): 1527–46.
+Siegel, Jordan I., and Barbara Zepp Larson. {{% resource_link "8cd59aee-1504-4682-9d84-3a6d36851be3" "\"Labor Market Institutions and Global Strategic Adaptation: Evidence from Lincoln Electric.\" (PDF)" %}} *Management Science* 55, no. 9 (2009): 1527–46.
 
 (The case of Lincoln Electric is described in the article. You may skip sections 4, 5, and 6 of the article in your preparation for class discussion.)
 
 ### Required Reading
 
-Bartlett, Christopher A., and Sumantra Ghoshal. "[What is a Global Manager?](http://hbr.org/2003/08/what-is-a-global-manager/)" *Harvard Business Review*, August 2003.
+Bartlett, Christopher A., and Sumantra Ghoshal. "{{% resource_link "ce04e721-0816-4954-b3f2-abc445966f89" "What is a Global Manager?" %}}" *Harvard Business Review*, August 2003.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -223,11 +223,11 @@ Global Strategy and Knowledge Management: How do you spread it all over the worl
 
 ### Case
 
-Edmondson, Amy C., Bertrand Moingeon, Vincent Dessain, et al. "[Global Knowledge Management at Danone (A)](http://hbr.org/product/global-knowledge-management-at-danone-a/an/608107-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9–608–107, Dec 11, 2007.
+Edmondson, Amy C., Bertrand Moingeon, Vincent Dessain, et al. "{{% resource_link "679efa8a-d3b1-41b8-b9c8-80d0de7492df" "Global Knowledge Management at Danone (A)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9–608–107, Dec 11, 2007.
 
 ### Required Reading
 
-Szulanski, Gabriel, and Sidney Winter. "[Getting it Right the Second Time](http://hbr.org/2002/01/getting-it-right-the-second-time/)." *Harvard Business Review*, January 2002.
+Szulanski, Gabriel, and Sidney Winter. "{{% resource_link "5500cd83-b5c9-4e6a-a02b-793a56a5c393" "Getting it Right the Second Time" %}}." *Harvard Business Review*, January 2002.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -246,11 +246,11 @@ Global Delivery: Why bother?
 
 ### Case
 
-Haour, G., C. Billington, and A. Pahwa. "[Infosys: Effectively Leveraging Global Resources](http://www.thecasecentre.org/educators/products/view?id=76767)." IMD. Case: 3-1814, November 11, 2007.
+Haour, G., C. Billington, and A. Pahwa. "{{% resource_link "e6aae2e9-36ad-42ad-a761-584ea63255a5" "Infosys: Effectively Leveraging Global Resources" %}}." IMD. Case: 3-1814, November 11, 2007.
 
 ### Required Reading
 
-Santos, José. "[Strategy Lessons from Left Field](http://hbr.org/2007/04/strategy-lessons-from-left-field/)." *Harvard Business Review*, April 2007.
+Santos, José. "{{% resource_link "ca16be31-0eb8-442c-b826-2be02cc7fcd6" "Strategy Lessons from Left Field" %}}." *Harvard Business Review*, April 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -269,14 +269,14 @@ Global Innovation: Local Innovation—seriously?
 
 ### Case
 
-Singh, Jasjit. "[GE Healthcare (A): Innovating for Emerging Markets](https://www.thecasecentre.org/products/view?id=100164)." Insead. Case: 311-048-1, March 2011.
+Singh, Jasjit. "{{% resource_link "25fb2e35-ac6a-419d-a3c6-adfa6da8a2ab" "GE Healthcare (A): Innovating for Emerging Markets" %}}." Insead. Case: 311-048-1, March 2011.
 
 ### Required Readings
 
-Immelt, Jeffrey R., Vijay Govindarajan, and Chris Trimble. "[How GE Is Disrupting Itself](http://hbr.org/2009/10/how-ge-is-disrupting-itself/)." *Harvard Business Review*, October 2009.
+Immelt, Jeffrey R., Vijay Govindarajan, and Chris Trimble. "{{% resource_link "d4cd8c24-c348-4f16-9ae0-e66580319472" "How GE Is Disrupting Itself" %}}." *Harvard Business Review*, October 2009.
 
-Prahalad, C. K. "[The Invisible Market](http://connection.ebscohost.com/c/interviews/14380475/invisible-market)." *Across the Board* 41, no. 5 (2004): 23.
+Prahalad, C. K. "{{% resource_link "b6c63155-0be5-4284-a8d0-92375e99fcf1" "The Invisible Market" %}}." *Across the Board* 41, no. 5 (2004): 23.
 
-Santos, J., Y. Doz, and P. Williamson. "[Is Your Innovation Process Global?](http://sloanreview.mit.edu/the-magazine/2004-summer/45406/is-your-innovation-process-global/)" *MIT Sloan Management Review* 45, no. 4 (2004).
+Santos, J., Y. Doz, and P. Williamson. "{{% resource_link "1e7d4f20-5293-48be-9fe8-f42c358e3e26" "Is Your Innovation Process Global?" %}}" *MIT Sloan Management Review* 45, no. 4 (2004).
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
